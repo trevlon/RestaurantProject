@@ -11,12 +11,12 @@
 
 .caption{
     paddding:18px;
-    transition:transform 2s;
+    transition:transform 0.7s;
     width:50%;
 }
 
 .caption:hover{
-    transform:scale(1.5);
+    transform:scale(1.2);
 }
 
 .caption{
