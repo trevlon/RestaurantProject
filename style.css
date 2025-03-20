@@ -9,13 +9,6 @@
     opacity:0.7;
 }
 
-.caption img:hover{
-    padding:18px;
-    transition:transform 1.5s;
-    transform:scale(1.5);
-    width:50%;
-}
-
 .caption{
     position:absolute;
     left:0;
@@ -97,14 +90,14 @@
 }
 
 
-.column{
+.column img{
     padding:18px;
-    transition:transform 2s;
+    transition:transform 0.7s;
     width:50%;
 }
 
-.column:hover{
-    transform:scale(1.5);
+.column img:hover{
+    transform:scale(1.1);
 }
 
 .column{
