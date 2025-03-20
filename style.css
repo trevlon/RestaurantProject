@@ -9,15 +9,11 @@
     opacity:0.7;
 }
 
-.caption{
+.caption img:hover{
     padding:18px;
-    transition:transform 2s;
-    width:50%;
-}
-
-.caption:hover{
+    transition:transform 1.5s;
     transform:scale(1.5);
-    font-family:serif;
+    width:50%;
 }
 
 .caption{
