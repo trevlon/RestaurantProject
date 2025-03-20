@@ -10,6 +10,16 @@
 }
 
 .caption{
+    paddding:18px;
+    transition:transoform 2s;
+    width:50%;
+}
+
+.caption:hover{
+    transform:scale(0.7);
+}
+
+.caption{
     position:absolute;
     left:0;
     top:50%;
